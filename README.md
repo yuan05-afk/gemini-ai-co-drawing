@@ -5,6 +5,24 @@ Gemini image models (Nano Banana), with a React canvas editor and one small Verc
 
 **Live:** https://geminicodrawingmodifiedbyyuan.vercel.app
 
+![Gemini Co-Drawing: a sketch on lined paper with the toolbar and history](docs/screenshots/canvas.webp)
+
+## A look inside
+
+| Screen | Preview |
+|---|---|
+| Draw, then ask: pen and eraser, colours, brush size, canvas shape, undo and redo | ![Canvas](docs/screenshots/canvas.webp) |
+| **Describe** mode: a real Gemini reply to "What is in this drawing?", saved in the history | ![Describe](docs/screenshots/describe.webp) |
+| Bring a picture: drag it, resize it from a corner, press Enter to place it | ![Placing a picture](docs/screenshots/place-picture.webp) |
+| Every change is a version you can go back to | ![History](docs/screenshots/history.webp) |
+| Your own key: it stays in this browser and goes straight to Google | ![Key settings](docs/screenshots/key-settings.webp) |
+| A key without billing: edits explain what to do instead of failing silently | ![Billing notice](docs/screenshots/billing-notice.webp) |
+
+<img src="docs/screenshots/mobile.webp" alt="On a phone" width="260">
+
+The describe and billing screens are real responses from the Gemini API. Image edits need a key with billing enabled, so
+no edited picture is shown here.
+
 ## What you can do
 
 - Draw with a pen or eraser (mouse, finger or stylus), pick any colour and a brush size.
