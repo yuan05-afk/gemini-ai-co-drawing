@@ -1,5 +1,5 @@
-import { generate, GeminiError, type EditRequest, type GeminiErrorCode } from '../src/lib/gemini';
-import { ALLOWED_MODEL_IDS, SUPPORTED_ASPECT_RATIOS } from '../src/lib/models';
+import { generate, GeminiError, type EditRequest, type GeminiErrorCode } from '../src/lib/gemini.js';
+import { ALLOWED_MODEL_IDS, SUPPORTED_ASPECT_RATIOS } from '../src/lib/models.js';
 
 /**
  * POST /api/generate

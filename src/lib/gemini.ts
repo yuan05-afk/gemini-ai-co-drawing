@@ -1,4 +1,4 @@
-import { modelChain, type AspectRatio } from './models';
+import { modelChain, type AspectRatio } from './models.js';
 
 /**
  * Talks to the Gemini REST API with plain fetch. The same code runs in the
