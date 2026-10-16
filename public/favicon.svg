@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Gemini Co-Drawing">
+  <rect width="64" height="64" rx="14" fill="#fffdf6"/>
+  <rect x="1.5" y="1.5" width="61" height="61" rx="12.5" fill="none" stroke="#111" stroke-width="3"/>
+  <path d="M14 46 L40 20 L46 26 L20 52 L12 54 Z" fill="#facc15" stroke="#111" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M40 20 L44 16 a3 3 0 0 1 4 0 l2 2 a3 3 0 0 1 0 4 L46 26 Z" fill="#f472b6" stroke="#111" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M48 36 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2 z" fill="#2563eb"/>
+</svg>
